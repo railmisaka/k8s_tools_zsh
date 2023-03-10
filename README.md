@@ -15,13 +15,9 @@ echo "source ~/.k8s_tools_zsh/source.zshrc" > ~/.zshrc
 
 * ```k``` &rArr; ```kubectl```
 
----
-
 * ```kctx c``` &rArr; shows information about currect kubectl context
 
 * ```kctx l``` &rArr; shows list of kubectl contexts
-
----
 
 * ```kc <project> <stage>``` &rArr; for cnahge kubectl context (see settings of this command in section ['setup your projects'](#setup-your-projects) below).
 
@@ -45,5 +41,3 @@ Now this will activate context with name ```project-x-production-context```.
 ```(zsh)
 kc ProjectX production
 ```
-
----
