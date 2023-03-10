@@ -1,4 +1,4 @@
-# A bit of tools for kubectl
+# A bit of tools for ```kubectl```
 
 Simple zsh aliases and functions set for ```kubectl```.
 
